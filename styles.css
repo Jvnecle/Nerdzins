@@ -1,0 +1,51 @@
+body {
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#000000;
+    background-image: url(nether.png);
+    font-size: medium;
+    
+
+    }
+    
+    header {
+    background-color: #64018b;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    }
+    
+    nav {
+    display: flex;
+    justify-content: center;
+    background-color: #c021ff;
+    }
+    
+    nav a {
+    color: hsl(0, 13%, 91%);
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+    }
+    
+    nav a:hover {
+    background-color: #099e29;
+    }
+   
+    main {
+    padding: 20px;
+    color:#ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    }
+    
+    footer {
+    background-color: #64018b;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    }
