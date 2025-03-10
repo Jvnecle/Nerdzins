@@ -6,8 +6,9 @@ body {
     background-color:#000000;
     background-image: url(nether.png);
     font-size: medium;
-    
+    text-align: center;
 
+    
     }
     
     header {
@@ -31,7 +32,7 @@ body {
     }
     
     nav a:hover {
-    background-color: #099e29;
+    background-color: #000000;
     }
    
     main {
@@ -49,3 +50,37 @@ body {
     width: 100%;
     bottom: 0;
     }
+
+
+    .Diogo{
+        color: #ffffff;
+        height: 60px;
+        font-size: 35px;
+       
+    }
+    
+    .Carlos{
+        color: #ffffff;
+        height: 60px;
+        font-size: 35px;
+    }
+
+    .Dhemitri{
+        color: #ffffff;
+        height: 60px;
+        font-size: 35px;
+    }
+
+    .Ana{
+        color: #ffffff;
+        height: 60px;
+        font-size: 35px;
+    }
+
+    .Necle{
+        color: #fafafa;
+        height: 60px;
+        font-size: 35px;
+    }
+
+
