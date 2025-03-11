@@ -29,6 +29,7 @@ body {
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
+    font-size: 25px;
     }
     
     nav a:hover {
@@ -56,7 +57,7 @@ body {
         color: #ffffff;
         height: 60px;
         font-size: 35px;
-       
+        text-align: center;
     }
     
     .Carlos{
@@ -69,18 +70,21 @@ body {
         color: #ffffff;
         height: 60px;
         font-size: 35px;
+        text-align: center;
     }
 
     .Ana{
         color: #ffffff;
         height: 60px;
         font-size: 35px;
+        text-align: center;
     }
 
     .Necle{
         color: #fafafa;
         height: 60px;
         font-size: 35px;
+        text-align: center;
     }
 
 
